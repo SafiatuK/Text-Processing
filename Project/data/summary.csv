@@ -1,0 +1,8 @@
+feature,spam,nonspam
+avg_word_length,0.0,1.0
+char_count,0.0,1.0
+link_count,0.0,0.0
+number_word_count,0.0,1.0
+spam_word_count,0.0,0.0
+unique_word_count,0.0,1.0
+word_count,0.0,1.0
